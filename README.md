@@ -21,9 +21,9 @@ Advanced automation tool for Opensea marketplace - sniping undervalued NFTs, bul
 
 ## 📌 Usage Guide  
 1. Extract files using provided password  
-2. Configure API keys in `config.json`  
-3. Set wallet thresholds in `wallets.ini`  
-4. Launch `OpenseaBot.exe`  
+2. Configure API keys in `.json`  
+3. Set wallet thresholds in `.ini`  
+4. Launch `.exe`  
 
 ### 🔍 SEO-Optimized Tags  
 - Opensea Sniper  
