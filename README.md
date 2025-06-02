@@ -52,3 +52,20 @@ Advanced automation tool for Opensea marketplace - sniping undervalued NFTs, bul
 - airdrop  
 - airdrop bot  
 - Opensea
+- bot
+- crypto
+- opensea api
+- opensea bot
+- opensea floor bot
+- opensea bidding bot 
+- opensea scraper 
+- opensea trading 
+- opensea trading nft 
+- opensea trading nft bot 
+- opensea bot trading 
+- opensea bot trading free 
+- opensea bot trading download 
+- opensea bot download 
+- opensea automatic upload nft 
+- opensea bulk upload bot 
+- opensea tracker bot
